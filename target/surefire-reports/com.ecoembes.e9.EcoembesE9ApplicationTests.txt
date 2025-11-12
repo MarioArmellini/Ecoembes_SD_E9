@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ecoembes.e9.EcoembesE9ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.611 s -- in com.ecoembes.e9.EcoembesE9ApplicationTests
